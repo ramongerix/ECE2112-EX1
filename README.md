@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Electronics Engineering at UST Manila
 - 📫 How to reach me [ig @ramongerix, linkedIn @Ramon Geric Leynes]
 
-  "This repository is for my class ECE2112 Experiments"
+  "This repository is for my class ECE2112 Experiment/s"
 
 <!---
 ramongerix/ramongerix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
